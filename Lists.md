@@ -1,4 +1,4 @@
-```latex
+```LaTeX
 
 \documentclass[11pt]{article}
 
